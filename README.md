@@ -3,7 +3,8 @@ Participate 2023 Google Solution Challenge
 
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
 
-## What is DrugSafe?
+
+## What is DrugSafe?
 
 
 
@@ -14,11 +15,11 @@ We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-universi
 ## Repository
 
 ## Repository
-[FrontEnd](https://github.com/GDSC-seeNear/FE) - React.js, Google Compute Engine
-[BackEnd](https://github.com/GDSC-seeNear/BE) - Django, Mysql, Google Compute Engine  
-[AI-](https://github.com/GDSC-seeNear/AI_chatbot) - Tenserflow, Google Compute Engine
-[AI-](https://github.com/GDSC-seeNear/NER) - Vertex ai, 
-[Data Analysis](https://github.com/GDSC-seeNear/sentiment_repository) - Bigquery, Cloud Storage, Looker Studio
+[FrontEnd](https://github.com/GDSC-seeNear/FE) - React.js, Google Compute Engine</br>
+[BackEnd](https://github.com/GDSC-seeNear/BE) - Django, Mysql, Google Compute Engine  </br>
+[AI-](https://github.com/GDSC-seeNear/AI_chatbot) - Tenserflow, Google Compute Engine</br>
+[AI-](https://github.com/GDSC-seeNear/NER) - Vertex ai, </br>
+[Data Analysis](https://github.com/GDSC-seeNear/sentiment_repository) - Bigquery, Cloud Storage, Looker Studio</br>
 </br>
 
 ## Team Member  
