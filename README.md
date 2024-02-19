@@ -32,16 +32,16 @@ We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-universi
    </tr>
   <tr>
      <td align="center">
-        <a href="https://github.com/gaguriee"><img src="https://avatars.githubusercontent.com/u/74501631?v=4" width="150px" alt="한지수"/><br /><sub><b>김가경</b></sub></a>
+        <a href="https://github.com/gaguriee"><img src="https://avatars.githubusercontent.com/u/74501631?v=4" width="150px" alt="한지수"/><br /><sub><b>한지수</b></sub></a>
      </td>
     <td align="center">
-    <a href="https://github.com/happyjamy"><img src="https://avatars.githubusercontent.com/u/78072370?v=4" width="150px;" alt="김혁"/><br /><sub><b>김주환</b></sub></a><br />
+    <a href="https://github.com/happyjamy"><img src="https://avatars.githubusercontent.com/u/78072370?v=4" width="150px;" alt="김혁"/><br /><sub><b>김혁</b></sub></a><br />
     </td>
      <td align="center">
-        <a href="https://github.com/hyeok55"><img src="https://avatars.githubusercontent.com/u/67605795?v=4" width="150px" alt="이유민"/><br /><sub><b>김혁</b></sub></a>
+        <a href="https://github.com/hyeok55"><img src="https://avatars.githubusercontent.com/u/67605795?v=4" width="150px" alt="이유민"/><br /><sub><b>이유민</b></sub></a>
      </td>
      <td align="center">
-        <a href="https://github.com/keonju2"><img src="https://avatars.githubusercontent.com/u/54880474?v=4" width="150px" alt="장석민"/><br /><sub><b>나건주</b></sub></a>
+        <a href="https://github.com/keonju2"><img src="https://avatars.githubusercontent.com/u/54880474?v=4" width="150px" alt="장석민"/><br /><sub><b>장석민</b></sub></a>
   <tr>
 </table> 
 
