@@ -74,7 +74,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 [BackEnd](https://github.com/hyeok55/hyeok55-DrugSafe_BE) - Django, Mysql, Google Compute Engine  </br>
 [AI-](https://github.com/GDSC-seeNear/AI_chatbot) - Tenserflow, Google Gemini, Google AI Studio</br>
 [AI-](https://github.com/GDSC-seeNear/NER) - Vertex ai </br>
-[Data Analysis](https://github.com/GDSC-seeNear/sentiment_repository) - Bigquery, Cloud Storage, Looker Studio</br>
+[Data Analysis](https://github.com/hyeok55/Drug_analysis) - Bigquery, Cloud Storage, Looker Studio</br>
 </br>
 
 ## Team Member  
