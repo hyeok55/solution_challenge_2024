@@ -5,6 +5,8 @@ We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-universi
 
 
 ## What is DrugSafe?
+<img width="317" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/481a7265-2721-4f0c-8cec-b8a4d4445c10">
+
 
 The drug problem is serious worldwide. It is a project that helps to inform and prevent the seriousness and risk of drug addiction in order to solve these problems and create a healthier society. DrugSafe provides prediction of the risk of drug abuse and side effects of facial aging when drug abuse is performed, and lists drug mortality, interest, and drugs by type.
 
