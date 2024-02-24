@@ -1,5 +1,6 @@
-# DrugSafe
-Participate 2024 Google Solution Challenge  
+![image](https://github.com/hyeok55/solution_challenge_2024/assets/67605795/fc46824f-3c20-4521-988e-55f0ff9d8c8b)# DrugSafe
+Participate 2024 Google Solution Challenge
+We tried to create GitHub as an organization, but due to the problem of overlapping names, we made it into a regular repository. There is no code in this repository, and you can access the repository by part in the repository section under readme.txt.
 
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
 
@@ -70,7 +71,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 
 ## Repository
 [FrontEnd](https://github.com/GDSC-seeNear/FE) - React.js, Google Compute Engine</br>
-[BackEnd](https://github.com/GDSC-seeNear/BE) - Django, Mysql, Google Compute Engine  </br>
+[BackEnd](https://github.com/hyeok55/hyeok55-DrugSafe_BE) - Django, Mysql, Google Compute Engine  </br>
 [AI-](https://github.com/GDSC-seeNear/AI_chatbot) - Tenserflow, Google Gemini, Google AI Studio</br>
 [AI-](https://github.com/GDSC-seeNear/NER) - Vertex ai </br>
 [Data Analysis](https://github.com/GDSC-seeNear/sentiment_repository) - Bigquery, Cloud Storage, Looker Studio</br>
@@ -86,18 +87,16 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
    </tr>
   <tr>
      <td align="center">
-        <a href="https://github.com/gaguriee"><img src="https://avatars.githubusercontent.com/u/74501631?v=4" width="150px" alt="한지수"/><br /><sub><b>한지수</b></sub></a>
+        <a href="https://github.com/gaguriee"><img src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/1cd3de24-d5ed-4666-b3e2-479e00db083d" width="150px" alt="한지수"/><br /><sub><b>한지수</b></sub></a>
      </td>
     <td align="center">
-    <a href="https://github.com/happyjamy"><img src="https://avatars.githubusercontent.com/u/78072370?v=4" width="150px;" alt="김혁"/><br /><sub><b>김혁</b></sub></a><br />
+    <a href="https://github.com/hyeok55"><img src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/6684412b-378d-43ad-9ffa-edfff2615d88" width="150px;" alt="김혁"/><br /><sub><b>김혁</b></sub></a><br />
     </td>
      <td align="center">
-        <a href="https://github.com/hyeok55"><img src="https://avatars.githubusercontent.com/u/67605795?v=4" width="150px" alt="이유민"/><br /><sub><b>이유민</b></sub></a>
+        <a href="https://github.com/hyeok55"><img src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/09e896e9-315a-4bab-bc74-5d7866e7021e" width="150px" alt="이유민"/><br /><sub><b>이유민</b></sub></a>
      </td>
      <td align="center">
-        <a href="https://github.com/keonju2"><img src="https://avatars.githubusercontent.com/u/54880474?v=4" width="150px" alt="장석민"/><br /><sub><b>장석민</b></sub></a>
+        <a href="https://github.com/keonju2"><img src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/2ad225b7-1c1a-4738-a07e-68912213c66f" width="150px" alt="장석민"/><br /><sub><b>장석민</b></sub></a>
   <tr>
 </table> 
-
-
 
