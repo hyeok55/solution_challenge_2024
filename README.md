@@ -40,7 +40,9 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 ## Feature
 
 #### Demo video
+<img width="1119" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/1fb9b912-658d-46cb-9154-702d5457da28">
 
+[https://www.youtube.com/watch?v=SflpuMHOuGo](https://www.youtube.com/watch?v=SflpuMHOuGo)
 
 #### Page Configuration
 <img width="783" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/3ac71b25-2349-49f0-b8b0-04982399c3f7">
