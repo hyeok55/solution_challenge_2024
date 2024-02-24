@@ -8,7 +8,37 @@ We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-universi
 
 The drug problem is serious worldwide. It is a project that helps to inform and prevent the seriousness and risk of drug addiction in order to solve these problems and create a healthier society. DrugSafe provides prediction of the risk of drug abuse and side effects of facial aging when drug abuse is performed, and lists drug mortality, interest, and drugs by type.
 
+
+## The main issues we face include:
+
+1.Growth Drug Population: Worldwide, the number of people taking drugs, including youth, is increasing, a sign that the drug problem is reaching a serious level.
+
+2. Lack of education on the dangers of drugs: With insufficient education on the dangers of drugs, many people are not aware of the serious side effects and dangers of drugs.
+
+3. Unintentional involvement of drug offenders and drug use: An increasing number of cases of drug involvement or drug use in unintentional situations are causing social problems.
+
+## DrugSafe provides a website that can troubleshoot the above four issues.
+
+1. Detailing the side effects and dangers of drugs: Explain the side effects and dangers of drugs so that the public can understand and perceive them.
+
+2. Delivering risks through AI: Using AI, predict and deliver the risk of death when taking drugs, and predict and show facial changes after taking drugs to help clearly recognize the risks.
+
+3. Provide dashboard: Analyzing and visualizing the number of deaths caused by drug use and related news to show the current state of the drug problem and the degree of interest in the drug.
+
+4. Provide unintended drug access cases: Provide unintended drug access and dosing cases to raise public vigilance against drugs and prevent drug-related crimes.
+
+5.Provide Chatbots: Quickly return information such as safe withdrawal management, anti-drug government and help connections, and provide accessible chatbots.
+
+## Selected UN Sustainable Development Goals
+<img width="317" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/c18b8725-ca9a-4900-b738-67a1886ab09f">
+<img width="317" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/76f165a1-5283-42b3-b2d1-a383d4e73068">
+<img width="317" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/dcb193f0-d006-4fec-bfbd-67d3cc2bf555">
+
 ## Feature
+
+#### Demo video
+
+
 #### Page Configuration
 <img width="783" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/3ac71b25-2349-49f0-b8b0-04982399c3f7">
 <img width="783" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/7454235e-918e-4f19-af63-b031a4d3e0a3">
