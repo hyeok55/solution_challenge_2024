@@ -19,7 +19,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 
 3. Unintentional involvement of drug offenders and drug use: An increasing number of cases of drug involvement or drug use in unintentional situations are causing social problems.
 
-## DrugSafe provides a website that can troubleshoot the above four issues.
+## DrugSafe provides a website that can troubleshoot the above four issues:
 
 1. Detailing the side effects and dangers of drugs: Explain the side effects and dangers of drugs so that the public can understand and perceive them.
 
