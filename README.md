@@ -1,5 +1,5 @@
-![image](https://github.com/hyeok55/solution_challenge_2024/assets/67605795/fc46824f-3c20-4521-988e-55f0ff9d8c8b)# DrugSafe
-Participate 2024 Google Solution Challenge
+# DrugSafe
+Participate 2024 Google Solution Challenge</br>
 We tried to create GitHub as an organization, but due to the problem of overlapping names, we made it into a regular repository. There is no code in this repository, and you can access the repository by part in the repository section under readme.txt.
 
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
