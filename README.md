@@ -14,7 +14,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 
 ## The main issues we face include:
 
-1.Growth Drug Population: Worldwide, the number of people taking drugs, including youth, is increasing, a sign that the drug problem is reaching a serious level.
+1. Growth Drug Population: Worldwide, the number of people taking drugs, including youth, is increasing, a sign that the drug problem is reaching a serious level.
 
 2. Lack of education on the dangers of drugs: With insufficient education on the dangers of drugs, many people are not aware of the serious side effects and dangers of drugs.
 
