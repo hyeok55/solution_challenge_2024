@@ -4,6 +4,10 @@ We tried to create GitHub as an organization, but due to the problem of overlapp
 
 We belong to [GDSC Seoultech](https://gdsc.community.dev/seoul-national-university-of-science-and-technology/).
 
+# Web Site URL
+corresponding url : [www.drugardian.dev](www.drugardian.dev)
+If you want to access the site, you can contact rlagur258@gmail.com . We'll turn on the server on time.
+We are currently unable to keep the server on due to a rate issue. Please understand.
 
 ## What is DrugSafe?
 <img width="317" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/481a7265-2721-4f0c-8cec-b8a4d4445c10">
