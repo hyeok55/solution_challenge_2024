@@ -80,7 +80,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 [FrontEnd](https://github.com/Jisu0528/SolutionChallenge_Front) - React.js, Google Compute Engine</br>
 [BackEnd](https://github.com/hyeok55/hyeok55-DrugSafe_BE) - Django, Mysql, Google Compute Engine  </br>
 [AI-Chatbot, Prediction of the risk of death](https://github.com/lym11020/Solution-challenge_AI) -  Vertex ai, Tenserflow, Google Gemini, Google AI Studio</br>
-[AI-Predicting Facial Changes Due to Drug Side Effects](https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/tree/main) - Tenserflow, Django, CycleGAN
+[AI-Predicting Facial Changes Due to Drug Side Effects](https://github.com/miinimanimo/CycleGAN-for-drug-abuse-facial-image/tree/main) - Tenserflow, Django, CycleGAN</br>
 [Data Analysis](https://github.com/hyeok55/Drug_analysis) - Bigquery, Cloud Storage, Looker Studio</br>
 </br>
 
