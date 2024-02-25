@@ -69,7 +69,7 @@ The drug problem is serious worldwide. It is a project that helps to inform and 
 <img width="783" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/b9454e8d-8f11-4d46-a7cd-dd94eebd242d">
 
 ## Architecture
-<img width="653" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/14834fc8-1465-4499-8d36-f4af7e8daf4f">
+<img width="874" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/989f23dc-7263-432f-af5f-d9bf810a377b">
 
 
 
